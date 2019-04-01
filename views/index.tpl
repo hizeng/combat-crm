@@ -6,7 +6,7 @@
 
 {%block content%}
 <div class="wrapper">
-    <div class ="content-section">一些图文视频的绚丽多彩的营销信息</div>
+    <div class ="content-section">图文背景</div>
     <div class ="form-section">
         <div class ="form-title">留下电话，我们会马上联系你，为你预约优惠名额</div>
         <div class = "form-item">
